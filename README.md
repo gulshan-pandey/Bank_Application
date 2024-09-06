@@ -27,7 +27,7 @@ This is a simple banking system application developed in Java, The application a
 
 1. Clone this repository.
 2. Import the project into your preferred IDE.
-3. Create a MySQL database and import the sample data from [SampleData.sql](https://github.com/gulshan-pandey/Bank_application/blob/main/sampledata.sql](https://github.com/gulshan-pandey/Bank_Application/blob/main/src/main/java/org/example/SampleData.sql)).
+3. Create a MySQL database and import the sample data from [SampleData.sql](https://github.com/gulshan-pandey/Bank_Application/blob/main/src/main/java/org/example/SampleData.sql).
 5. Run the application.
 
 
