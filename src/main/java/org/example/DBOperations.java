@@ -13,7 +13,7 @@ public class DBOperations {
 
     static final String URL = "jdbc:mysql://localhost:3306/BANK";
     static final String USER = "root";
-    static final String PASSWORD = "Rspy7210";
+    static final String PASSWORD = "root";
 
 
     public static Connection connection;
